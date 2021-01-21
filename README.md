@@ -1,4 +1,4 @@
-# MNIST-Digit-Recognition
+# MNIST Digit Recognition
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/urastogi885/mnist-digit-recognition/blob/main/LICENSE)
 
 ## Overview
